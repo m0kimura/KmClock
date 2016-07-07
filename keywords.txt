@@ -1,0 +1,6 @@
+KmClock   KEYWORD1
+
+begin     KEYWORD2
+time      KEYWORD2
+show      KEYWORD2
+bright    KEYWORD2
